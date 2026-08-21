@@ -1,2 +1,0 @@
-python-telegram-bot==21.4
-pillow>=10.0
